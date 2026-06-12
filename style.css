@@ -1,0 +1,97 @@
+/* ---- 섹션 ---- */
+.bestellers-sct {
+    padding: 124px 80px;
+    display: flex;
+    flex-direction: column;
+}
+
+/* ---- 네비게이션 ---- */
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 65px 0;
+    border-top: 1px solid #E1DED9;
+}
+.main-title {
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 33.6px;
+}
+.view-all {
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+}
+
+/* ---- 리스트 ---- */
+.all-list {
+    display: flex;
+    gap: 40px;
+}
+.list {
+    flex-grow: 1;
+}
+/* 이미지 박스 */
+.img {
+    background: #EBEBEB;
+    height: 410px;
+}
+/* 텍스트 박스 */
+.title-body01 {
+    padding: 40px 0 42px 0;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+}
+.title-body02 {
+    padding-bottom: 40px;
+    border-bottom: 1px solid #E1DED9;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px;
+}
+.title-body03 {
+    padding: 14px 0 24px 0;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.price {
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 17px;
+}
+.box-30ml {
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 17px;
+    text-decoration-line: underline;
+text-decoration-style: solid;
+}
+.box-60ml {
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 17px;
+}
+.ml-box {
+    display: flex;
+    gap: 16px;
+}
+.btn {
+    padding: 10px 30px;
+    display: flex;
+    justify-content: center;
+    border: 1px solid #E1DED9;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 21px;
+}
