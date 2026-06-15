@@ -87,11 +87,15 @@ text-decoration-style: solid;
 }
 .btn {
     padding: 10px 30px;
-    display: flex;
-    justify-content: center;
+    /* display: flex; */
+    /* justify-content: center; */
     border: 1px solid #E1DED9;
     font-size: 14px;
     font-style: normal;
     font-weight: 600;
     line-height: 21px;
+    cursor: pointer;
+    color: #212529;
+    background-color: #fff;
+    text-align: center;
 }

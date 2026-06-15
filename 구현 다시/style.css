@@ -1,0 +1,17 @@
+/* 베스트 셀러 섹션 */
+.bestseller-section  {
+    padding: 124px 80px;
+}
+
+/* 섹션 타이틀 */
+.ul-nav {
+    border-top: 1px solid #e1ded9;
+    display: flex;
+    justify-content: space-between;
+    padding: 65px 0;
+}
+.section-title {
+    
+}
+
+/* 리스트 */
